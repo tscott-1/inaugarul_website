@@ -1,0 +1,23 @@
+
+li{
+    list-style-type:none ;
+    background-color: gold;
+}
+
+ul li{
+    list-style-type:disc ;
+    background-color:chartreuse ;
+}
+
+ol li{
+    list-style-type:lower-alpha ;
+
+}
+
+.test{
+    background-color: rgb(56, 231, 172);
+    justify-content:flex-end;
+
+}
+
+
